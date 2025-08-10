@@ -1,5 +1,5 @@
-class demotesting{
+public class script{
     public static void main(String[] args) {
-        System.out.println("codinghowtos");
+        System.out.println("Hello, world!");
     }
-};
+}
