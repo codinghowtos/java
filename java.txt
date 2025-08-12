@@ -1,0 +1,3 @@
+class : veriable, function etc container 
+function : perameter, task
+
