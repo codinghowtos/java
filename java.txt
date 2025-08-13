@@ -1,3 +1,51 @@
 class : veriable, function etc container 
 function : perameter, task
 
+
+output
+1.println
+2.print
+3.\n
+Q *
+  * *
+  * * *
+
+veriables
+container jiski koi velue hum define kr skte hai
+
+datatype
+
+Primitive Data Types
+| **Type**  | **Size**  | 
+| --------- | --------- | 
+| `byte`    | 1 byte    |
+| `short`   | 2 bytes   |
+| `int`     | 4 bytes   | 
+| `long`    | 8 bytes   | 
+| `float`   | 4 bytes   | 
+| `double`  | 8 bytes   | 
+| `char`    | 2 bytes   | 
+| `boolean` | \~1 bit\* | 
+
+non-Primitive datatype
+
+Strings
+
+Arrays
+
+Classes
+
+Interfaces
+
+Enums
+
+Objects
+
+
+Input
+import java.util.*;
+
+scanner sc = new scanner(system.in);
+string anhything = sc.next();
+system.out.println(anything);
+
