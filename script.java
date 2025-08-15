@@ -13,7 +13,6 @@ public class script {
         break;
         default:
         System.out.println("choose a colour");
-            break;
       }
        
     }
