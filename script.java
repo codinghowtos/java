@@ -2,10 +2,19 @@
 import java.util.*;
 public class script {
     public static void main(String[] args) {
-        System.out.println();
         Scanner sc = new Scanner(System.in);
-        String name = sc.next();
-        name  = "jack";
-        System.out.println(name);
+        String colour = sc.next();
+      switch (colour) {
+        case "Red":
+            System.out.println("colour is red");
+            break;
+        case "Green":
+        System.out.println("colour is green");
+        break;
+        default:
+        System.out.println("choose a colour");
+            break;
+      }
+       
     }
 }

@@ -49,3 +49,15 @@ scanner sc = new scanner(system.in);
 string anhything = sc.next();
 system.out.println(anything);
 
+
+
+conditional statements
+if, else, else if
+switch()
+brreak
+
+
+
+
+
+
