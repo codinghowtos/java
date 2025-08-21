@@ -3,11 +3,11 @@ import java.util.*;
 public class script {
     public static void main(String[] args) {
       Scanner sc = new Scanner(System.in);
-//int num = sc.nextInt();
+int num = sc.nextInt();
 int i = 1;
 do {
-  System.out.println(i);
+  System.out.println(num*i);
   i++;
-} while (i==0);
+} while (i<=10);
     }
 }
